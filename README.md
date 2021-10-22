@@ -2,6 +2,6 @@
 
 Source Code: https://github.com/CodeAunt/dfirocks
 
-## Evolutionary interactively generated NFT
+## Evolutionary interactively NFT on the Internet Computer
 
 ![demo](./demo.gif)

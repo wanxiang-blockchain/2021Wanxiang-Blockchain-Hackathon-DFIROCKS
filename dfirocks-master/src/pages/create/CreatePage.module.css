@@ -1,0 +1,36 @@
+.page-content {
+    width: 100%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+Canvas {
+  height: 500px;
+}
+
+div .button-container {
+  height: 8%;
+  width: 25%;
+  min-width: 250px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+div .button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+
+.address-list {
+  padding-top: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

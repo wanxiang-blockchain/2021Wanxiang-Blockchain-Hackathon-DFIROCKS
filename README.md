@@ -4,4 +4,4 @@ Source Code: https://github.com/CodeAunt/dfirocks
 
 ## Evolutionary interactively generated NFT
 
-[](./demo.gif)
+![demo](./demo.gif)
